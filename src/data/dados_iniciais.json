@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Programação e Tecnologia",
+      "link": "https://www.youtube.com/watch?v=moSpTLbIJp0",
+      "cor": "red",
+      "link_extra": {
+        "text": "Vídeos diversos sobre Tecnologia",
+        "url": "https://www.youtube.com/watch?v=moSpTLbIJp0"
+      },
+      "videos": [
+        {
+          "titulo": "A diferença entre processadores Intel core i3, i5, i7 e i9 - The Hardware Show ",
+          "url": "https://www.youtube.com/watch?v=moSpTLbIJp0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "PHP vale a pena?",
+          "url": "https://www.youtube.com/watch?v=H43fXodv6WY"
+        },
+        {
+          "titulo": "O que é REST?",
+          "url": "https://www.youtube.com/watch?v=weQ8ssA6iBU"
+        },
+        {
+          "titulo": "📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows",
+          "url": "https://www.youtube.com/watch?v=h1-XZ9Kh1H4"
+        }           
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Counter-Strike: Global Offensive",
+          "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+        },
+        {
+          "titulo": "THE LAST OF US PART 2 ",
+          "url": "https://www.youtube.com/watch?v=ru5IU8bGx3A"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "O Rei",
+          "url": "https://www.youtube.com/watch?v=sLBLa5-W3IQ"
+        },
+        {
+          "titulo": "Que Horas Ela Volta?",
+          "url": "https://www.youtube.com/watch?v=Dffs46VCJ_g"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "JOJO RABBIT",
+          "url": "https://www.youtube.com/watch?v=-ilPoupBusg"
+        },
+        {
+          "titulo": "Star Wars: Os Últimos Jedi",
+          "url": "https://www.youtube.com/watch?v=-di3XYRxyHY"
+        },
+        {
+          "titulo": "Anjos da Lei ",
+          "url": "https://www.youtube.com/watch?v=1hxGRuQXOas"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "titulo": "Narcos",
+          "url": "https://www.youtube.com/watch?v=xl8zdCY-abw"
+        },
+        {
+          "titulo": "Freaks and Geeks",
+          "url": "https://www.youtube.com/watch?v=Ntvp1azbhzM"
+        },
+        {
+          "titulo": "LOVE DEATH + ROBOTS",
+          "url": "https://www.youtube.com/watch?v=lUN84i8-cBs"
+        }, 
+        {
+          "titulo": "Community ",
+          "url": "https://www.youtube.com/watch?v=twgupXIYn3w"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenhos de Infância",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Desenhos dos anos 90 e 2000",
+        "url": "https://www.buzzfeed.com/br/clarissapassos/desenhos-dos-anos-90-que-fizeram-parte-da-sua-infancia"
+      },
+      "videos": [
+        {
+          "titulo": "Doug",
+          "url": "https://www.youtube.com/watch?v=LyrUnJtopuE"
+        },
+        {
+          "titulo": "Madeline",
+          "url": "https://www.youtube.com/watch?v=f6SMW2r7mbw"
+        },
+        {
+          "titulo": "A Mansão Foster Para Amigos Imaginários",
+          "url": "https://www.youtube.com/watch?v=1akOVHbEbhg"
+        },
+        {
+          "titulo": "Hey Arnold!",
+          "url": "https://www.youtube.com/watch?v=OKL1ffelnNk"
+        },
+        {
+          "titulo": "Rugrats: 'Os Anjinhos'",
+          "url": "https://www.youtube.com/watch?v=C2W2gLSz9RE"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#00C86F",
+      "link_extra": {
+      "text": "Dos gêneros mais diversos",
+      "url": "https://www.spotify.com/br/"
+      },
+      "videos": [
+        {
+          "titulo": "Distrito Zero Part. Brito | 70",
+          "url": "https://www.youtube.com/watch?v=xdHQuFaskBU"
+        },
+        {
+          "titulo": "Ponto Nulo No Céu - Horizontal",
+          "url": "https://www.youtube.com/watch?v=LiBQwaq36uI"
+        },
+        {
+          "titulo": "Baco Exu do Blues - Esú ",
+          "url": "https://www.youtube.com/watch?v=opgimBI2Rqk"
+        },
+        {
+          "titulo": "Marisa Monte e Ed Motta - Ainda Lembro",
+          "url": "https://www.youtube.com/watch?v=HP6zStiYMRE"
+        },
+        {
+          "titulo": "Thievery Corporation Claridad",
+          "url": "https://www.youtube.com/watch?v=P38JfibHLsM"
+        },
+        {
+          "titulo": "Audioslave - Like a Stone",
+          "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA"
+        },
+        {
+          "titulo": "Froid - Sou Alaska ",
+          "url": "https://www.youtube.com/watch?v=bbRwKd_qUr0"
+        }
+      ]
+    }
+  ]
+}

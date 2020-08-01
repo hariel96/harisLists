@@ -1,0 +1,10 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Programação",
+      "descricao": "Programando e quebrando aplicações",
+      "cor": "#cbd1ff"
+    }
+  ]
+}
