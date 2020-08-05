@@ -1,7 +1,8 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
-import styled from 'styled-components';
+//import styled from 'styled-components';
 //import { Link } from 'react-router-dom';
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -10,10 +11,6 @@ function getYouTubeId(youtubeURL) {
       '$7',
     );
 }
-
-const TiraLink = styled.a`
-  text-decoration: none;
-`;
 
 export default function BannerMain({
   videoTitle,
@@ -40,9 +37,9 @@ export default function BannerMain({
           <VideoIframeResponsive
             youtubeID={youTubeID}
           />
-          <WatchButton> <TiraLink><a className="link" href="https://www.youtube.com/watch?v=moSpTLbIJp0">
+          <WatchButton> <a className="link" href="https://www.youtube.com/watch?v=moSpTLbIJp0">
             Assistir
-            </a></TiraLink>
+            </a>
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
